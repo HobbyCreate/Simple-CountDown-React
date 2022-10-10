@@ -1,0 +1,15 @@
+.count {
+    display: flex;
+    margin: 0 60px;
+    font-size: 2rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.day, .hour, .mins, .sec {
+    margin: 150px 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
